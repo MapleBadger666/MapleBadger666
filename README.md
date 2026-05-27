@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mark He
 
-<!--
-**MapleBadger666/MapleBadger666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Math / Statistics / Financial Engineering / Quant Research student focused on multi-factor modeling, machine learning, and reproducible research systems.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Multi-factor alpha research and backtesting
+- IC / RankIC analysis, factor neutralization, and portfolio construction
+- Machine learning for financial time-series and cross-sectional equity data
+- Research engineering with Python, Git, testing, and automated reports
+
+## Technical Stack
+
+**Languages:** Python, Java, C++, R  
+**Quant / Data:** pandas, NumPy, scikit-learn, statsmodels, matplotlib  
+**Research:** factor modeling, backtesting, portfolio optimization, time-series analysis  
+**Tools:** Git, GitHub, VS Code, Jupyter, LaTeX
+
+## Featured Projects
+
+- Multi-factor backtesting engine
+- Alpha factor research library
+- AI-assisted financial research workflow
+
+## Contact
+
+- Email: heqiuyan0922@gmail.com
