@@ -19,21 +19,21 @@ I'm a Mathematics student at the University of British Columbia interested in st
 
 ## Featured Projects
 
-### Bankiller Quant Research Platform
+### [Bankiller Quant Research Platform](https://github.com/MapleBadger666/bankiller-quant-research-platform)
 
-Python-based quantitative research platform for alpha-factor construction, multi-factor modeling, and backtesting.
+Python-based quantitative research platform for constructing and empirically evaluating cross-sectional equity factors.
 
-- Evaluates factor predictiveness using Spearman Rank IC, quantile returns, long-short performance, Sharpe ratio, cumulative returns, and drawdown
-- Processes A-share OHLCV data through standardized data-access and return-calculation pipelines
-- Supports automated factor computation, batch backtesting, regression testing, and reproducible research outputs
+- Evaluates factor signals using Spearman Rank IC, ICIR, quantile returns, and long-short diagnostics
+- Implements forward-return construction, cumulative-return analysis, Sharpe ratio, and maximum drawdown
+- Emphasizes point-in-time data alignment, validation, and reproducible empirical research
 
-### COMAP Mathematical Contest in Modeling
+### [Smartphone Battery Modeling — COMAP MCM 2026](https://github.com/MapleBadger666/mcm-battery-modeling)
 
 Data-driven mathematical modeling of smartphone battery behavior using DXOMARK battery-test data.
 
 - Developed coupled state-of-charge (SOC)–temperature ordinary differential equation models in SciPy
 - Calibrated thermal and discharge-efficiency parameters and simulated battery runtime and long-term degradation
-- Evaluated model robustness through regression diagnostics, ablation experiments, and sensitivity analysis
+- Evaluated model robustness through regression diagnostics and sensitivity analysis, with exploratory analysis of long-term battery degradation
 
 ### Interactive Analytics Dashboard
 
@@ -51,6 +51,3 @@ Java-based analytics system for processing, exploring, and visualizing structure
 - Time-Series and Cross-Sectional Data Analysis
 - Reproducible Research Systems
 
-## Contact
-
-- Email: heqiuyan0922@gmail.com
